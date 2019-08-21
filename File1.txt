@@ -3,6 +3,7 @@ This is file 1 to write hello world..!!!
 class myclass{
 
 public static void main(String args[]){
-    System.out.println("welocme to hello world program..!!"); 
+    System.out.println("welocme to hello world program..!!");
+    Sysout();
    }
 }

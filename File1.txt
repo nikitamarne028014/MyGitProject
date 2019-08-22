@@ -2,11 +2,14 @@ This is file 1 to write hello world..!!!
 
 class myClass{
 
-	private void myMethod(){
-	sysout("this is masters hello world");
+	private static void myMethod(String str){
+	sysout(str);
 	}
+
+
 public static void main(String args[]){
 
-       System.out.println("hello world..!!");
+	myMethod("welcome to git");
+     
    }
 }

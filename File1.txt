@@ -2,11 +2,11 @@ This is file 1 to write hello world..!!!
 
 class myClass{
 
-	void myMethod(){
-	sysout("this is a ndew method");
+	public static void myMethod(){
+	sysout("Hello world...!!!");
 	}
 public static void main(String args[]){
 
-       System.out.println("hello world..!!");
+     
    }
 }

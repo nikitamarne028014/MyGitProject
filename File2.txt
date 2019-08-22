@@ -1,2 +1,6 @@
 this is file 2
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 change 1

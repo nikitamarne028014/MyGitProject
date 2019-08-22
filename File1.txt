@@ -2,8 +2,8 @@ This is file 1 to write hello world..!!!
 
 class myClass{
 
-	void myMethod(){
-	sysout("this is a ndew method");
+	private void myMethod(){
+	sysout("this is masters hello world");
 	}
 public static void main(String args[]){
 

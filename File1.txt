@@ -1,15 +1,15 @@
 This is file 1 to write hello world..!!!
 
-class myClass{
+class MyClass{
 
-	private static void myMethod(String str){
+	private void myMethod(String str){
 	sysout(str);
 	}
 
 
-public static void main(String args[]){
-
-	myMethod("welcome to git");
+	public static void main(String args[]){
+	 MyClass obj = new MyClass();
+	 obj.MyMethod("welcome to git");
      
    }
 }
